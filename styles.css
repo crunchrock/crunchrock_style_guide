@@ -1,0 +1,20 @@
+.colors {
+    border: solid 1px black;
+}
+
+main {
+    width: 80%;
+    margin: 0 auto;
+}
+
+.colors {
+    border: solid 1px black;
+    margin-bottom: 20px;
+}
+.fonts {
+    border: solid 1px black;
+    margin-bottom: 20px;
+}
+.text-styles {
+    border: solid 1px black;
+}
