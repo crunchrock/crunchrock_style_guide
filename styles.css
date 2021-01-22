@@ -32,13 +32,13 @@ main {
 }
 
 h1 {
-    font-family: "Heavy Data";
-    font-size: 50px;
+    font-family: "Pixel12x10";
+    font-size: 48px;
     font-weight: 400;
 }
 
 h2 {
-    font-family: "Pixel12x10";
+    font-family: "Heavy Data";
     font-size: 36;
     font-weight: 400px;
 }
